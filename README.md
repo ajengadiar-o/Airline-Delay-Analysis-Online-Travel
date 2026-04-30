@@ -73,7 +73,7 @@ As a data analyst in an online travel platform, understanding airline reliabilit
 
 ---
 
-## 🚀 Recommendations
+## Recommendations
 - Prioritize airlines with better on-time performance in search results  
 - Provide delay risk transparency to users  
 - Implement airline risk flagging system  
